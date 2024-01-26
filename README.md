@@ -35,6 +35,10 @@ $ python2 fbi.py
 
 ![Screenshot](https://f.top4top.io/p_2947a3zum0.jpg)
 
+![Screenshot](https://a.top4top.io/p_29471ymi70.jpg)
+
+
+
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
