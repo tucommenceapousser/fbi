@@ -19,7 +19,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ git clone https://github.com/tucommenceapousser/fbi.git
 $ cd fbi
 ```
 
@@ -31,6 +31,11 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 fbi.py
 ```
+
+## Run on replit
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/fbi)](https://replit.com/github/tucommenceapousser/fbi)
+
+
 # [ Screenshot ]
 <img src="https://image.ibb.co/iLFhD9/fbi.png"/>
 
