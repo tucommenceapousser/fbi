@@ -33,8 +33,7 @@ $ python2 fbi.py
 [![Run on Replit](https://replit.com/badge/github/tucommenceapousser/fbi)](https://replit.com/github/tucommenceapousser/fbi)
 
 
-# [ Screenshot ]
-<img src="https://image.ibb.co/iLFhD9/fbi.png"/>
+![ Screenshot ](https://i.top4top.io/p_2947d2b250.jpg)
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
